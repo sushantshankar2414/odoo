@@ -1,0 +1,20 @@
+
+.s_share > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.s_share .s_share_title {
+  margin: 0 .4rem 0 0;
+}
+
+.s_share a {
+  margin: .2rem;
+}
+
+.s_share a i.fa {
+  display: -webkit-box; display: -webkit-flex; display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

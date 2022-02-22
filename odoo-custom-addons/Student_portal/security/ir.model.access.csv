@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_student_details,access.student_details,model_student_details,,1,1,1,1
+access_batch_detail,access.batch_detail,model_batch_detail,,1,1,1,1
+access_branch_detail,access.branch_detail,model_branch_detail,,1,1,1,1
+access_subject_details,access.subject_details,model_subject_details,,1,1,1,1
+access_teacher_details,access.teacher_details,model_teacher_details,,1,1,1,1
